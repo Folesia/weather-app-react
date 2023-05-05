@@ -9,10 +9,10 @@ function App() {
       <div className="container">
         <div className="weather-app">
           <div className="weather-border">
-          <Weather />
+            <Weather />
           </div>
           <small>
-            <a href="https://github.com/Folesia/weather-app">
+            <a href="https://github.com/Folesia/weather-app-react">
               Open-source code
             </a>
             by Olesia Fatenko
