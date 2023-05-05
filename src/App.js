@@ -1,13 +1,24 @@
 import React from "react";
-import Weather from"./Weather";
+import Weather from "./Weather";
 
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
-      <Weather city="Paris"/>
+      <div className="container">
+        <div className="weather-app">
+          <div className="weather-border">
+          <Weather />
+          </div>
+          <small>
+            <a href="https://github.com/Folesia/weather-app">
+              Open-source code
+            </a>
+            by Olesia Fatenko
+          </small>
+        </div>
+      </div>
     </div>
   );
 }
