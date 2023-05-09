@@ -12,7 +12,7 @@ function App() {
             <Weather />
           </div>
           <small>
-            <a href="https://github.com/Folesia/weather-app-react">
+            <a href="https://github.com/Folesia/weather-app-react" target="_blank">
               Open-source code
             </a>
             by Olesia Fatenko
