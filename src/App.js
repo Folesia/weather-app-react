@@ -12,7 +12,7 @@ export default function App() {
         <footer>
           <a
             href="https://github.com/Folesia/weather-app-react"
-            target="_blank"
+            
           >
             Open-source code{" "}
           </a>
